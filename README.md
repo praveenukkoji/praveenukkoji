@@ -1,4 +1,7 @@
 ### Hi there 👋
+  - 🧳 I’m currently working in Cognizant Technology Solutions India Private Limited.
+  - 💻 I’m interested in Full Stack Development and Competitive Programming.
+  - 📚 I’m currently learning DSA.
 
 <!--
 **praveenukkoji/praveenukkoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
