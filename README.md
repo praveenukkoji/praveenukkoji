@@ -1,6 +1,6 @@
 ### Hi there 👋
   - 🧳 I’m currently working in Cognizant Technology Solutions India Private Limited.
-  - 💻 I’m interested in Full Stack Development and Competitive Programming.
+  - 💻 I’m interested in Backend Development and Competitive Programming.
   - 📚 I’m currently learning DSA.
 
 <!--
